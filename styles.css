@@ -72,6 +72,7 @@ button {
     border-radius: 6px;
     width: 100px;
     height: 30px;
+    font-weight: bold;
 }
 
 .showcase {
@@ -138,4 +139,36 @@ button {
     color: #1F2937;
     margin-right: -400px;
     margin-top: -30px;
+}
+
+.bottom-container {
+    height: 275px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up-container {
+    background: #3882F6;
+    height: 125px;
+    width: 70%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#call {
+    font-size: 24px;
+    color: #F9FaF8;
+    font-weight: bold;
+}
+
+#sign {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sign-up-text {
+
 }
